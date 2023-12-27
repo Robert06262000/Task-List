@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Task List Finals\Task List Finals\bin\Debug\Task List Finals.exe.config
+C:\Users\User\Desktop\Task List Finals\Task List Finals\bin\Debug\Task List Finals.exe
+C:\Users\User\Desktop\Task List Finals\Task List Finals\bin\Debug\Task List Finals.pdb
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task List Finals.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task List Finals.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task_List_Finals.Task_List.resources
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task_List_Finals.Properties.Resources.resources
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task List Finals.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task List Finals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task List Finals.exe
+C:\Users\User\Desktop\Task List Finals\Task List Finals\obj\Debug\Task List Finals.pdb
